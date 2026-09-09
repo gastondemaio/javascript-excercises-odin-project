@@ -15,3 +15,17 @@ const max = 57;
 const actual = max - 13;
 const porcentage = actual / max;
 console.log(porcentage);
+
+const string = "The revolution will not be televised.";
+console.log(string);
+
+const badString = string;
+console.log(badString);
+
+const single = 'single quotes';
+const double = "double quotes";
+const backtick = `backtick`
+
+const one = "Hello, ";
+const two = "how are you?"
+const joined = `${one}${two}`
